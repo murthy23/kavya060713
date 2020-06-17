@@ -1,0 +1,1 @@
+/u01/APPLTOP/fusionapps/jdk/bin/keytool -importcert -file /u01/tmp/OICWS.cer  -trustcacerts -alias OICWS1 -keystore /u01/APPLTOP/instance/keystores/fusion_trust.jks -storepass MyAdminPassw0rd
