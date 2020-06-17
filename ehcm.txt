@@ -1,0 +1,9 @@
+{"VM_LIST" : "ehcmk84no8db-auxvm3.pod115.prd01mel01pod03.oraclevcn.com"}
+
+Notification Batch_ID's
+========================================================
+katari.naga@oracle.com100000075040965 - 25 PODS - Dynamic Content available at the time of Extended Customer Notification
+katari.naga@oracle.com100000075008202 - 54 PODS - No Dynamic Content available
+katari.naga@oracle.com100000075008449 - 366 PODS - Dynamic Content available at the time of Initial Customer Notification
+katari.naga@oracle.com100000075008165 - 14 PODS - Dynamic Content available at the time of Initial Customer Notification
+
