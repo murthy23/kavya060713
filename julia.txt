@@ -1,0 +1,16 @@
+JULIA Commands
+===================================
+ctrl+l - To clear the Screen
+ctrl+d - To exit the Screen
+ctrl+c - To stop the Long running process
+workspace() - To start a New Session
+? - for Help about Julia - type sort
+]? - for pkg Help about Julia - type sort
+
+julia> type anyletter(m) and click tab button 2 times, then it will shows all methods and functions which are started with letter M
+julia> m
+macro          mapfoldl        mark            maximum!        methods         minimum!        mkpath          mod1            mtime
+macroexpand    mapfoldr        match           maxintfloat     methodswith     minmax          mktemp          mod2pi          muladd
+map            mapreduce       max             merge           min             missing         mktempdir       modf            mutable struct
+map!           mapslices       maximum         merge!          minimum         mkdir           mod             module          mv
+
